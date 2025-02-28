@@ -1,8 +1,8 @@
-🚀 AI-powered Travel  A GenAI-powered AI Travel app that analyzes exstimation cost of travelling,distance, travel time and details of Travels mode.
+🚀 AI-powered Travel  A GenAI-powered AI Travel app that analyzes estimation cost of travelling,distance, travel time and details of Travels mode.
 
-📌 Features ✅ Analyze the exstimated cost of different travel modes like Train, Flight,Bus..etc
+📌 Features ✅ Analyze the estimated cost of different travel modes like Train, Flight,Bus..etc
 
-✅ Suggest to know the exstimation budget source to destination
+✅ Suggest to know the estimation budget source to destination
 
 ✅ Review entire Jupyter Notebooks (.py), including both code and markdown cells
 
